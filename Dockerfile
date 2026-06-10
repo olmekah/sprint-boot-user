@@ -1,5 +1,5 @@
 
-#  Curso Spring y MicroServicios
+#  Curso Spring y MicroServicios  and git
 #  www.dcinternet.com.mx
 
 FROM eclipse-temurin:17-jdk
