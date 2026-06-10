@@ -6,7 +6,7 @@ on:
       - "**"
 
 env:
-  DOCKER_IMAGE: your-dockerhub-username/your-app-name
+  DOCKER_IMAGE: olmeca870/dockerapp
   JAVA_VERSION: "17"
 
 jobs:
